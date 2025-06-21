@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-kafka-template'
+include 'kafka-producer-wikimedia'
+
