@@ -14,7 +14,9 @@ public class ProducerDemo {
     public static void main(String[] args) {
 
         Properties properties = new Properties();
-        properties.setProperty("bootstrap.servers", "172.22.190.167:9092");
+        properties.setProperty("bootstrap.servers", "host.docker.internal:9092");
+
+
 
 
 //        properties.setProperty("bootstrap.servers", "cluster.playground.cdkt.io:9092");
@@ -28,7 +30,8 @@ public class ProducerDemo {
         KafkaProducer<String, String> producer = new KafkaProducer<>(properties);
 
         ProducerRecord<String, String> producerRecord =
-                new ProducerRecord<>("demo_java", "Kafka java producer consumer demo!");
+                new ProducerRecord<>("wikimedia.recentchange", "Kafka test message!");
+
 
         producer.send(producerRecord);
 
