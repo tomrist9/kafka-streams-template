@@ -47,8 +47,8 @@ A professional Kafka Streams template to build event-driven microservices and re
 3. `mvn clean package`
 4. Run:
    ```bash
-   java -cp target/demo.jar com.example.ProducerApp
-   java -cp target/demo.jar com.example.ConsumerApp
+git clone https://github.com/tomrist9/kafka-streams-template.git
+cd kafka-streams-template
 
 ## 📸 Demo
 
