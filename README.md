@@ -43,11 +43,8 @@ A professional Kafka Streams template to build event-driven microservices and re
 
 ## How to Use
 1. Clone repo
-2. Start Kafka with Docker or local install
-3. `mvn clean package`
-4. Run:
-   ```bash
 git clone https://github.com/tomrist9/kafka-streams-template.git
+
 cd kafka-streams-template
 
 ## 📸 Demo
