@@ -32,6 +32,7 @@ A professional Kafka Streams Template to build event-driven microservices and st
 ## How to Use
 
 git clone https://github.com/tomrist9/kafka-streams-template.git
+
 cd kafka-streams-template
 
 ## 📸 Demo
