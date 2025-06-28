@@ -30,13 +30,9 @@ A professional Kafka Streams Template to build event-driven microservices and st
 - Docker Compose (Kafka stack)
 
 ## How to Use
-1. Clone repo
-2. Start Kafka with Docker or local install
-3. `mvn clean package`
-4. Run:
-   ```bash
-   java -cp target/demo.jar com.example.ProducerApp
-   java -cp target/demo.jar com.example.ConsumerApp
+
+git clone https://github.com/tomrist9/kafka-streams-template.git
+cd kafka-streams-template
 
 ## 📸 Demo
 
