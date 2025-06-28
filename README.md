@@ -30,22 +30,16 @@ A professional Kafka Streams Template to build event-driven microservices and st
 - Docker Compose (Kafka stack)
 
 ## How to Use
-1. Clone repo
-2. Start Kafka with Docker or local install
-3. `mvn clean package`
-4. Run:
-   ```bash
-   java -cp target/demo.jar com.example.ProducerApp
-   java -cp target/demo.jar com.example.ConsumerApp
+1️⃣ Clone the project:
+
+```bash
+git clone https://github.com/tomrist9/kafka-streams-template.git
+cd kafka-streams-template
 
 ## 📸 Demo
 
-Here’s a preview of the project in action:
+Kafka Streams application in action:
 
-### 🔍 Consumer Group Monitoring
-Shows the status of your Kafka consumer group and lag.
-![Consumer Group State](screenshots/kafka-template.jpg)
-
-### 🔄 Offset Reset via UI  
-Reset Kafka offsets to reprocess historical events.  
-![Consumer Group State](screenshots/kafka-template2.jpg)
+### 🔁 Real-Time Stream Processing  
+Displays how messages flow through your Kafka Streams topology.  
+![Stream Processing](screenshots/kafka_streams.jpg)
