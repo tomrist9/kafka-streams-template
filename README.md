@@ -41,8 +41,7 @@ A professional Kafka Streams template to build event-driven microservices and re
 
 ---
 
-## 🚀 How to Run
-
+## How to Use
 1️.Clone the project:
 ```bash
 git clone https://github.com/tomrist9/kafka-streams-template.git
