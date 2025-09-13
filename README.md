@@ -20,7 +20,7 @@ A professional Kafka Streams template to build event-driven microservices and re
 
 ---
 
-## 🧠 Included Processors
+##  Included Processors
 
 | Processor Class              | Description                                                  |
 |-----------------------------|--------------------------------------------------------------|
@@ -31,7 +31,7 @@ A professional Kafka Streams template to build event-driven microservices and re
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Java 17  
 - Apache Kafka  
