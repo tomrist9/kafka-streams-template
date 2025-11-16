@@ -8,7 +8,7 @@ A professional Kafka Streams template to build event-driven microservices and re
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ Kafka Streams app with plug-and-play processors  
 ✅ Field-based windowed counting (per field value)  
