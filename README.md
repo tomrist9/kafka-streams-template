@@ -55,10 +55,5 @@ Kafka Streams application in action:
 Displays how messages flow through your Kafka Streams topology.  
 ![Stream Processing](screenshots/kafka_streams.jpg)
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-You can use, copy, modify, and distribute this software for any purpose, with or without changes, as long as you include the original license and copyright.
 
 This software is provided "as is", without warranty of any kind.
