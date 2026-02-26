@@ -51,7 +51,7 @@ git clone https://github.com/tomrist9/kafka-streams-template.git
 
 Kafka Streams application in action:
 
-### 🔁 Real-Time Stream Processing  
+###  Real-Time Stream Processing  
 Displays how messages flow through your Kafka Streams topology.  
 ![Stream Processing](screenshots/kafka_streams.jpg)
 
