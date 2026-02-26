@@ -47,7 +47,7 @@ git clone https://github.com/tomrist9/kafka-streams-template.git
 
  cd kafka-streams-template
 
-## 📸 Demo
+##  Demo
 
 Kafka Streams application in action:
 
