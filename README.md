@@ -55,5 +55,3 @@ Kafka Streams application in action:
 Displays how messages flow through your Kafka Streams topology.  
 ![Stream Processing](screenshots/kafka_streams.jpg)
 
-
-This software is provided "as is", without warranty of any kind.
